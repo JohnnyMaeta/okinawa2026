@@ -18,11 +18,11 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 ## 🛠️ 便利なツール（リンク集）
 学習を助けてくれる相棒たちです。
 
-| ツール名              | 用途                   | リンク                                                                                    |
-| :---------------- | :------------------- | :------------------------------------------------------------------------------------- |
-| **UNICEF SDGs動画** | 17の目標を動画で知る          | <a href="https://www.unicef.or.jp/kodomo/sdgs/17goals/" target="_blank">📋 視聴する</a>                              |
+| ツール名              | 用途                   | リンク                                                                                                               |
+| :---------------- | :------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| **UNICEF SDGs動画** | 17の目標を動画で知る          | <a href="https://www.unicef.or.jp/kodomo/sdgs/17goals/" target="_blank">📋 視聴する</a>                               |
 | **NotebookLM**    | 資料を整理してAIと話す         | <a href="https://notebooklm.google.com/" target="_blank">🤖 開く</a>                                                |
-| **調べ学習サポートくん**    | 疑問を一緒に考えてくれるGemini   | <a href="https://gemini.google.com/gem/152DkdXXBwuIZVdVgJW4H1Z_mR1kZ8M9n?usp=sharing" target="_blank">💎 相談する</a> |
+| **調べ学習サポートくん**    | 疑問を一緒に考えてくれるGemini   | <a href="https://gemini.google.com/gem/1wVMFVg7G79WBdNHnEunO9lMN_gflv7Ks?usp=sharing" target="_blank">💎 相談する</a> |
 | **わからない言葉確認くん**   | むずかしい言葉を教えてくれるGemini | <a href="https://gemini.google.com/gem/1EYfd008Fw4hHpJihABzxK3Oh3EX2XY4x?usp=sharing" target="_blank">📖 調べる</a>  |
 | **掲示板（Padlet）**   | みんなの成果をシェアする場所       | <a href="https://padlet.com/kumaya77/ict-ai-pxapx4gqi4aq3tqm" target="_blank">📋 見る</a>                           |
 
@@ -50,13 +50,15 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 
 ### 🕒 3時間目：自分が調べる目標から「ぎもん」を見つけよう
 - [ ] **ワークシート確認**: これから何を調べるか整理しよう。
-- [ ] **AIと対話**: 「調べ学習サポートくん」の使い方をマスターしよう。
+- [ ] **AIと対話**: <a href="https://gemini.google.com/gem/1wVMFVg7G79WBdNHnEunO9lMN_gflv7Ks?usp=sharing" target="_blank">「調べ学習サポートくん」</a> の使い方をマスターしよう。
 - [ ] **疑問を出す**: AIと一緒に、深掘りしたい疑問を3つ考えよう。
 - [ ]  **振り返り**: 今日の学習を振り返ろう。<a href="https://forms.gle/BooHnTWJLhEi3WUz9" target="_blank">📝 フォームに記入する</a>
 
 ### 🕓 4時間目：今までの内容をスライドにしておこう
 - [ ] **スライド作成**: まずは「文字」だけでOK！
     - 伝えたいことを順番に並べよう（フォントやイラストは後回しで大丈夫）。
+    - Googleスライドで作る人は <a href="https://docs.google.com/presentation/d/1RKi8UmsXl6sUyRFSMfwD3573-dWQIJNELl_fPrUh2Nk/template/preview" target="_blank">こちら</a>
+    - Canvaで作る人は <a href="https://www.canva.com/design/DAG_GALCxr8/HCcCiwxebwdxt1s6Kz78ig/view?utm_content=DAG_GALCxr8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" target="_blank">こちら</a>
 - [ ] **録画**: スライドを使いながら現在の進捗を説明してみよう。
 - [ ] **振り返り**: <a href="https://forms.gle/BooHnTWJLhEi3WUz9" target="_blank">📝 進み具合を報告</a>
 
@@ -67,10 +69,14 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 - [ ] **さらに調べる**: わからない言葉は「わからない言葉確認くん」に聞こう。
 - [ ] **ブラッシュアップ**: スライドをきれいに仕上げよう（CanvaやGoogleスライド）。
 - [ ] **動画制作**: 解説動画にしよう（VidsやCanvaがおすすめ）。
-- [ ] **シェア**: 完成したら <a href="https://padlet.com/kumaya77/ict-ai-pxapx4gqi4aq3tqm" target="_blank">📋 Padlet</a> に貼り付けよう！
+- [ ] **シェア**: 完成したら <a href="https://padlet.com/kumaya77/sdgs-o9s9kyr5743qxukn" target="_blank">📋 Padlet</a> に貼り付けよう！
 
 ---
 
 ## 📮 振り返りリンク（確認用）
 忘れないうちに毎回入力しましょう！
 <a href="https://forms.gle/BooHnTWJLhEi3WUz9" target="_blank">👉 振り返りフォームはこちら</a>
+
+## 📮 スーパー記録くん
+今日の学びを話し合ってみよう
+<a href="https://script.google.com/macros/s/AKfycbxeL491-v1R8KTfzRZfMdBfC6OI8x9KZ1T-vCcMWpzwe5l1d3JhQzBYuxm-XvX4kvLUYw/exec" target="_blank">👉 スーパー記録くん</a>
