@@ -59,7 +59,7 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
     - 伝えたいことを順番に並べよう（フォントやイラストは後回しで大丈夫）。
     - Googleスライドで作る人は <a href="https://docs.google.com/presentation/d/1RKi8UmsXl6sUyRFSMfwD3573-dWQIJNELl_fPrUh2Nk/template/preview" target="_blank">こちら</a>
     - Canvaで作る人は <a href="https://www.canva.com/design/DAG_GALCxr8/HCcCiwxebwdxt1s6Kz78ig/view?utm_content=DAG_GALCxr8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" target="_blank">こちら</a>
- **録画**:スライドを録画しよう。<a href="https://vids.new" target="_blank">🎥 録画する</a>
+- [ ] **録画**:スライドを録画しよう。<a href="https://vids.new" target="_blank">🎥 録画する</a>
 - [ ] **振り返り**: <a href="https://forms.gle/BooHnTWJLhEi3WUz9" target="_blank">📝 進み具合を報告</a>
 
 ### 🕔 5時間目：「ぎもん」について予想してみよう
