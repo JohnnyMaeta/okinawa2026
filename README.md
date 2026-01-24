@@ -89,3 +89,4 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 - <a href="https://youtu.be/tcoHR4MpJw4" target="_blank">Geminiで学習振り返り→AIがコメント→Googleフォームで提出完了！</a>
 - <a href="https://youtu.be/rKEdD7bEwKQ" target="_blank">私がGeminiとnotebookLMをつかって、今やっている総合的な学習の授業</a>
 - <a href="https://youtu.be/Acsl77LCvQQ" target="_blank">他の先生が作ったGemを自分の学級用にカスタマイズする</a>
+- <a href="https://youtu.be/4Y0_St6NZvA" target="_blank">音声も動画も写真もこれ1つ！「スーパー記録くん」で記録が超効率化</a>
