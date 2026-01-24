@@ -66,7 +66,7 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 - [ ] **仮説を立てる**: 3つの疑問に対して「たぶん、こうじゃないかな？」という自分の予想（仮説）を書いてみよう。
 
 ### 🕕 6時間目以降：完成に向けて！
-- [ ] **さらに調べる**: わからない言葉は「わからない言葉確認くん」に聞こう。
+- [ ] **さらに調べる**: わからない言葉は<a href="https://gemini.google.com/gem/1EYfd008Fw4hHpJihABzxK3Oh3EX2XY4x?usp=sharing" target="_blank">「わからない言葉確認くん」</a>に聞こう。
 - [ ] **ブラッシュアップ**: スライドをきれいに仕上げよう（CanvaやGoogleスライド）。
 - [ ] **動画制作**: 解説動画にしよう（VidsやCanvaがおすすめ）。
 - [ ] **シェア**: 完成したら <a href="https://padlet.com/kumaya77/sdgs-o9s9kyr5743qxukn" target="_blank">📋 Padlet</a> に貼り付けよう！
@@ -80,3 +80,8 @@ AI（人工知能）を相棒にして、SDGs（持続可能な開発目標）�
 ## 📮 スーパー記録くん
 今日の学びを話し合ってみよう
 <a href="https://script.google.com/macros/s/AKfycbxeL491-v1R8KTfzRZfMdBfC6OI8x9KZ1T-vCcMWpzwe5l1d3JhQzBYuxm-XvX4kvLUYw/exec" target="_blank">👉 スーパー記録くん</a>
+
+## 🗒️ 本日使ったGemのプロンプト
+自分用に作り替えてください
+<a href="https://docs.google.com/document/d/1Apj9afblIzKMzMIYEk6A1kpWojhpZUqlgHGtg1W8E3w/edit?usp=sharing" target="_blank">👉 プロンプト集</a>
+
